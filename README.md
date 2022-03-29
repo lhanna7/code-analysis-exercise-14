@@ -19,8 +19,8 @@ function (user){
 
 | Input | Output |
 | ----- | ------ |
-|  user = {userName: "Lauren", userID: "lhanna7", isActive: true}   |  Welcome back, "Lauren", "lhanna7"!      | 
-|  user = {userName: "Lauren", userID: "lhanna7", isActive: false}     |    Hey "Lauren", "lhanna7"! Would you like to renew your subscription?    | 
+|  user = {userName: "Lauren", isActive: true}   |  "Welcome back, Lauren!"      | 
+|  user = {userName: "Lauren", isActive: false}     |    "Hey Lauren! Would you like to renew your subscription?"    | 
 |       |        | 
 
 <table>
